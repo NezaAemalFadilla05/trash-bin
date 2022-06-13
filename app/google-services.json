@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1050087102993",
+    "project_id": "trashbin-cfeb9",
+    "storage_bucket": "trashbin-cfeb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050087102993:android:bc67ad8a6c3078ea1bafb0",
+        "android_client_info": {
+          "package_name": "com.aplikasi.trashbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050087102993-l2u5q0890mr9pr1emtt92ftlbiblklvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplikasi.trashbin",
+            "certificate_hash": "43f970b1772956bb8f0d7a734d5ae98b8cceabe7"
+          }
+        },
+        {
+          "client_id": "1050087102993-cp9kukr5o11fghnti8pgovu9afiu3n54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLASObK7rR5nnfbTgXXl_WaMi1ismsGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050087102993-cp9kukr5o11fghnti8pgovu9afiu3n54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050087102993:android:3ffefa3901378c6e1bafb0",
+        "android_client_info": {
+          "package_name": "com.azhar.banksampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050087102993-cp9kukr5o11fghnti8pgovu9afiu3n54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLASObK7rR5nnfbTgXXl_WaMi1ismsGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050087102993-cp9kukr5o11fghnti8pgovu9afiu3n54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
